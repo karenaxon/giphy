@@ -1,0 +1,10 @@
+body{
+  font-size: larger;
+  color:white;
+  background-color: #cccccc;
+}
+
+img {
+  flex: content;
+  margin: 2rem;
+}
